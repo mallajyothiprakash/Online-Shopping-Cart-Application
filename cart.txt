@@ -1,2 +1,3 @@
 It is an Online Shopping Cart Application
 Updated Main
+Added Discount Feature in the Applicatio
